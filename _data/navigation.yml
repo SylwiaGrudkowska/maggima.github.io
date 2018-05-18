@@ -2,6 +2,17 @@
   href: "/"
 - title: "Quick Start"
   href: "/pages/quick-start/"
+- title: "User's documentation"
+  href: "/pages/reference-manual/"
+  subitems:
+    - title: "What's new in JDemetra+"
+      href: "news/"
+    - title: "Getting started"
+      href: "start/"
+    - title: "Reference Manual"
+      href: "manual/"
+    - title: "Case studies"
+      href: "case-studies/"
 - title: "Math"
   href: "/pages/basic/"
   subitems:
